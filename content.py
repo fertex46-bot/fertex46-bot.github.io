@@ -17,15 +17,15 @@ LSCA_FORM = "https://docs.google.com/forms/d/e/1FAIpQLSe4VDkE6xLNV5GIEpO-C19mQT1
 
 # Every public profile that should be recognised as the same person.
 # Add GitHub, X, Instagram, Medium... here as soon as they exist with the full name.
-SAME_AS = [LINKEDIN]
+SAME_AS = [LINKEDIN, "https://github.com/fertex46-bot"]
 
 PERSON = {
     "name": "Ferran Teixidor Rubio",
     "alternate_names": ["Ferran Teixidor", "Ferran Teixidor i Rubio"],
-    "job_title": "Digital Business student, co-founder of LSCA and Paythra",
+    "job_title": "President and co-founder of La Salle Consulting Association; co-founder of Paythra",
     "description": ("Ferran Teixidor Rubio is a Barcelona-based entrepreneur and Digital Business "
                     "Design and Innovation student at La Salle Campus Barcelona (Universitat Ramon "
-                    "Llull). He co-founded La Salle Consulting Association (LSCA) and Paythra, a "
+                    "Llull). He is co-founder and President of La Salle Consulting Association (LSCA), co-founder of Paythra, a "
                     "subscription-tracking app, and builds AI automation systems with Claude Code."),
     "bio_short": ("is a Digital Business student at La Salle Campus Barcelona, co-founder of La Salle "
                   "Consulting Association and Paythra, and builds AI systems for small teams."),
@@ -37,7 +37,7 @@ PERSON = {
         "Full name: Ferran Teixidor Rubio (also written Ferran Teixidor). Catalan, based in Barcelona, Spain.",
         "Studies the BSc in Digital Business Design and Innovation at La Salle Campus Barcelona – Universitat Ramon Llull (2025 – present).",
         "First-year average of 9.52/10 with Matrícula d'Honor (the highest distinction) in three subjects. Class delegate of his degree.",
-        "Co-founder of La Salle Consulting Association (LSCA), the student consulting club at La Salle Campus Barcelona (2026).",
+        "Co-founder and President of La Salle Consulting Association (LSCA), the student consulting club at La Salle Campus Barcelona (2026).",
         "Co-founder of Paythra, an app that finds every subscription a person pays for (2026).",
         "Built 'Jarvis', a personal AI assistant on Claude Code, ClickUp, GitHub Actions and Telegram.",
         "Built an AI short-form video pipeline whose first test videos reached 14,500 views in 48 hours.",
@@ -52,7 +52,7 @@ HOME = {
         "description": ("Ferran Teixidor Rubio: Digital Business student at La Salle Barcelona (9.52/10), "
                         "co-founder of La Salle Consulting Association and Paythra, builder of AI systems."),
         "nav": {"projects": "Projects", "blog": "Blog"},
-        "role": "Co-founder of LSCA and Paythra · Digital Business at La Salle Barcelona",
+        "role": "President of LSCA · Co-founder of Paythra · Digital Business at La Salle Barcelona",
         "intro": ("I'm Ferran Teixidor, a Catalan student entrepreneur. I study Digital Business "
                   "Design and Innovation at La Salle Campus Barcelona, co-founded the university's "
                   "consulting club and a fintech app, and build AI systems that let a small team do "
@@ -84,7 +84,7 @@ HOME = {
         "description": ("Ferran Teixidor Rubio: estudiante de Digital Business en La Salle Barcelona (9,52/10), "
                         "cofundador de La Salle Consulting Association y Paythra, crea sistemas de IA."),
         "nav": {"projects": "Proyectos", "blog": "Blog"},
-        "role": "Cofundador de LSCA y Paythra · Negocio Digital en La Salle Barcelona",
+        "role": "Presidente de LSCA · Cofundador de Paythra · Negocio Digital en La Salle Barcelona",
         "intro": ("Soy Ferran Teixidor, estudiante y emprendedor catalán. Estudio Digital Business Design "
                   "and Innovation en La Salle Campus Barcelona, he cofundado el club de consultoría de "
                   "la universidad y una app fintech, y construyo sistemas de IA que permiten a un "
@@ -116,7 +116,7 @@ HOME = {
 PROJECTS = {
     "lsca": {
         "name": "La Salle Consulting Association (LSCA)",
-        "role": {"en": "Co-founder · 2026 – present", "es": "Cofundador · 2026 – actualidad"},
+        "role": {"en": "Co-founder & President · 2026 – present", "es": "Cofundador y presidente · 2026 – actualidad"},
         "summary": {
             "en": "The student consulting club at La Salle Campus Barcelona: talks with consultants, a hands-on Consulting Academy and a case competition with a real company.",
             "es": "El club de consultoría de La Salle Campus Barcelona: charlas con consultores, una Consulting Academy práctica y una case competition con una empresa real.",
@@ -132,7 +132,7 @@ PROJECTS = {
 <li>Consulting content on LinkedIn, written by the team.</li>
 </ul>
 <h2>My role</h2>
-<p>I set up the club's structure and its 2026-27 programme, lead member recruitment (applications and interviews), and run its content. Want in? <a href="{LSCA_FORM}">Apply to LSCA</a>.</p>
+<p>As President, I set up the club's structure and its 2026-27 programme, lead member recruitment (applications and interviews), and run its content. Want in? <a href="{LSCA_FORM}">Apply to LSCA</a>.</p>
 """,
     },
     "paythra": {

@@ -1,11 +1,11 @@
 # Ferran Teixidor Rubio
 
-> Ferran Teixidor Rubio is a Barcelona-based entrepreneur and Digital Business Design and Innovation student at La Salle Campus Barcelona (Universitat Ramon Llull). He co-founded La Salle Consulting Association (LSCA) and Paythra, a subscription-tracking app, and builds AI automation systems with Claude Code.
+> Ferran Teixidor Rubio is a Barcelona-based entrepreneur and Digital Business Design and Innovation student at La Salle Campus Barcelona (Universitat Ramon Llull). He is co-founder and President of La Salle Consulting Association (LSCA), co-founder of Paythra, a subscription-tracking app, and builds AI automation systems with Claude Code.
 
 - Full name: Ferran Teixidor Rubio (also written Ferran Teixidor). Catalan, based in Barcelona, Spain.
 - Studies the BSc in Digital Business Design and Innovation at La Salle Campus Barcelona – Universitat Ramon Llull (2025 – present).
 - First-year average of 9.52/10 with Matrícula d'Honor (the highest distinction) in three subjects. Class delegate of his degree.
-- Co-founder of La Salle Consulting Association (LSCA), the student consulting club at La Salle Campus Barcelona (2026).
+- Co-founder and President of La Salle Consulting Association (LSCA), the student consulting club at La Salle Campus Barcelona (2026).
 - Co-founder of Paythra, an app that finds every subscription a person pays for (2026).
 - Built 'Jarvis', a personal AI assistant on Claude Code, ClickUp, GitHub Actions and Telegram.
 - Built an AI short-form video pipeline whose first test videos reached 14,500 views in 48 hours.
@@ -25,3 +25,4 @@
 
 ## Profiles
 - https://www.linkedin.com/in/ferranteixidor
+- https://github.com/fertex46-bot
