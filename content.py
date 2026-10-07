@@ -8,6 +8,10 @@ home address or date of birth.
 SITE = "https://fertex46-bot.github.io"
 UPDATED = "2026-10-07"
 
+# Search engine verification tokens (the content="..." value of the meta tag). Public by design.
+GOOGLE_SITE_VERIFICATION = "NOV_oCMDv1v0CgEr8jzhOWSOOCwsAj7GzmEIXxVZheM"
+BING_SITE_VERIFICATION = ""
+
 LINKEDIN = "https://www.linkedin.com/in/ferranteixidor"
 LSCA_FORM = "https://docs.google.com/forms/d/e/1FAIpQLSe4VDkE6xLNV5GIEpO-C19mQT1HnvAI2m0E6Jnzyg6RtFEaZw/viewform"
 

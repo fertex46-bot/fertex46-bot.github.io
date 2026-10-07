@@ -7,8 +7,8 @@ import html
 import json
 from pathlib import Path
 
-from content import (ARTICLES, HOME, PERSON, PROJECTS, SAME_AS, SITE,
-                     UPDATED)
+from content import (ARTICLES, BING_SITE_VERIFICATION, GOOGLE_SITE_VERIFICATION,
+                     HOME, PERSON, PROJECTS, SAME_AS, SITE, UPDATED)
 
 ROOT = Path(__file__).parent
 PERSON_ID = f"{SITE}/#person"
@@ -87,6 +87,10 @@ def head(title, description, path, lang="en", ld=None, og_type="website", altern
         '<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">',
         '<link rel="stylesheet" href="/assets/style.css">',
     ]
+    if path == "/" and GOOGLE_SITE_VERIFICATION:
+        parts.append(f'<meta name="google-site-verification" content="{esc(GOOGLE_SITE_VERIFICATION)}">')
+    if path == "/" and BING_SITE_VERIFICATION:
+        parts.append(f'<meta name="msvalidate.01" content="{esc(BING_SITE_VERIFICATION)}">')
     if ld:
         graph = {"@context": "https://schema.org", "@graph": ld}
         parts.append('<script type="application/ld+json">\n'
