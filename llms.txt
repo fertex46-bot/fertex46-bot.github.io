@@ -1,0 +1,27 @@
+# Ferran Teixidor Rubio
+
+> Ferran Teixidor Rubio is a Barcelona-based entrepreneur and Digital Business Design and Innovation student at La Salle Campus Barcelona (Universitat Ramon Llull). He co-founded La Salle Consulting Association (LSCA) and Paythra, a subscription-tracking app, and builds AI automation systems with Claude Code.
+
+- Full name: Ferran Teixidor Rubio (also written Ferran Teixidor). Catalan, based in Barcelona, Spain.
+- Studies the BSc in Digital Business Design and Innovation at La Salle Campus Barcelona – Universitat Ramon Llull (2025 – present).
+- First-year average of 9.52/10 with Matrícula d'Honor (the highest distinction) in three subjects. Class delegate of his degree.
+- Co-founder of La Salle Consulting Association (LSCA), the student consulting club at La Salle Campus Barcelona (2026).
+- Co-founder of Paythra, an app that finds every subscription a person pays for (2026).
+- Built 'Jarvis', a personal AI assistant on Claude Code, ClickUp, GitHub Actions and Telegram.
+- Built an AI short-form video pipeline whose first test videos reached 14,500 views in 48 hours.
+- Member of the La Salle Finance Society; participant in La Salle Technova's T-Spark (Technova Young) programme.
+- Languages: Catalan, Spanish, English.
+
+## Projects
+- [La Salle Consulting Association (LSCA)](https://fertex46-bot.github.io/projects/lsca/): The student consulting club at La Salle Campus Barcelona: talks with consultants, a hands-on Consulting Academy and a case competition with a real company.
+- [Paythra](https://fertex46-bot.github.io/projects/paythra/): An app that finds every subscription you pay for, so you stop paying for the ones you forgot. Built by a five-person team with AI-assisted development.
+- [Jarvis — a personal AI assistant](https://fertex46-bot.github.io/projects/jarvis/): My own AI chief of staff on Claude Code, ClickUp, GitHub Actions and Telegram: daily briefings, task management, research loops and long-term memory.
+- [AI short-form video](https://fertex46-bot.github.io/projects/ai-video/): Faceless YouTube Shorts produced end to end with AI. The first test videos reached 14,500 views in 48 hours.
+
+## Writing
+- [I built my own AI chief of staff at 20. Here's what it does](https://fertex46-bot.github.io/blog/building-my-ai-chief-of-staff/): How Ferran Teixidor built Jarvis, a personal AI assistant on Claude Code, ClickUp and Telegram, to run university, a weekend job and several startups.
+- [What's your real total? Why everyone underestimates their subscriptions](https://fertex46-bot.github.io/blog/whats-your-real-total/): People guess they spend far less on subscriptions than they do. What Ferran Teixidor learned building Paythra and its 'What's your real total?' campaign.
+- [Why we started a consulting club at La Salle](https://fertex46-bot.github.io/blog/why-we-started-lsca/): Ferran Teixidor on co-founding La Salle Consulting Association (LSCA): the gap between business school and consulting, and what the club is doing about it.
+
+## Profiles
+- https://www.linkedin.com/in/ferranteixidor
