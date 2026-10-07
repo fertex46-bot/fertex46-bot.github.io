@@ -13,15 +13,15 @@
 - Languages: Catalan, Spanish, English.
 
 ## Projects
-- [La Salle Consulting Association (LSCA)](https://fertex46-bot.github.io/projects/lsca/): The student consulting club at La Salle Campus Barcelona: talks with consultants, a hands-on Consulting Academy and a case competition with a real company.
-- [Paythra](https://fertex46-bot.github.io/projects/paythra/): An app that finds every subscription you pay for, so you stop paying for the ones you forgot. Built by a five-person team with AI-assisted development.
-- [Jarvis — a personal AI assistant](https://fertex46-bot.github.io/projects/jarvis/): My own AI chief of staff on Claude Code, ClickUp, GitHub Actions and Telegram: daily briefings, task management, research loops and long-term memory.
-- [AI short-form video](https://fertex46-bot.github.io/projects/ai-video/): Faceless YouTube Shorts produced end to end with AI. The first test videos reached 14,500 views in 48 hours.
+- [La Salle Consulting Association (LSCA)](https://ferranteixidor.com/projects/lsca/): The student consulting club at La Salle Campus Barcelona: talks with consultants, a hands-on Consulting Academy and a case competition with a real company.
+- [Paythra](https://ferranteixidor.com/projects/paythra/): An app that finds every subscription you pay for, so you stop paying for the ones you forgot. Built by a five-person team with AI-assisted development.
+- [Jarvis — a personal AI assistant](https://ferranteixidor.com/projects/jarvis/): My own AI chief of staff on Claude Code, ClickUp, GitHub Actions and Telegram: daily briefings, task management, research loops and long-term memory.
+- [AI short-form video](https://ferranteixidor.com/projects/ai-video/): Faceless YouTube Shorts produced end to end with AI. The first test videos reached 14,500 views in 48 hours.
 
 ## Writing
-- [I built my own AI chief of staff at 20. Here's what it does](https://fertex46-bot.github.io/blog/building-my-ai-chief-of-staff/): How Ferran Teixidor built Jarvis, a personal AI assistant on Claude Code, ClickUp and Telegram, to run university, a weekend job and several startups.
-- [What's your real total? Why everyone underestimates their subscriptions](https://fertex46-bot.github.io/blog/whats-your-real-total/): People guess they spend far less on subscriptions than they do. What Ferran Teixidor learned building Paythra and its 'What's your real total?' campaign.
-- [Why we started a consulting club at La Salle](https://fertex46-bot.github.io/blog/why-we-started-lsca/): Ferran Teixidor on co-founding La Salle Consulting Association (LSCA): the gap between business school and consulting, and what the club is doing about it.
+- [I built my own AI chief of staff at 20. Here's what it does](https://ferranteixidor.com/blog/building-my-ai-chief-of-staff/): How Ferran Teixidor built Jarvis, a personal AI assistant on Claude Code, ClickUp and Telegram, to run university, a weekend job and several startups.
+- [What's your real total? Why everyone underestimates their subscriptions](https://ferranteixidor.com/blog/whats-your-real-total/): People guess they spend far less on subscriptions than they do. What Ferran Teixidor learned building Paythra and its 'What's your real total?' campaign.
+- [Why we started a consulting club at La Salle](https://ferranteixidor.com/blog/why-we-started-lsca/): Ferran Teixidor on co-founding La Salle Consulting Association (LSCA): the gap between business school and consulting, and what the club is doing about it.
 
 ## Profiles
 - https://www.linkedin.com/in/ferranteixidor

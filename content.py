@@ -5,7 +5,7 @@ home address or date of birth.
 """
 
 # Switch to "https://ferranteixidor.com" once the domain is bought (build.py then writes CNAME).
-SITE = "https://fertex46-bot.github.io"
+SITE = "https://ferranteixidor.com"
 UPDATED = "2026-10-07"
 
 # Search engine verification tokens (the content="..." value of the meta tag). Public by design.
