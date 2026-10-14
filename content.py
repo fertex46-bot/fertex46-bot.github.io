@@ -29,14 +29,14 @@ PERSON = {
                     "subscription-tracking app, and builds AI automation systems with Claude Code."),
     "bio_short": ("is a Digital Business student at La Salle Campus Barcelona, co-founder of La Salle "
                   "Consulting Association and Paythra, and builds AI systems for small teams."),
-    "awards": ["Matrícula d'Honor in three first-year subjects, La Salle Campus Barcelona (2025-26)",
-               "TVS Education Talent Program"],
+    "awards": ["Matrícula d'Honor in four first-year subjects, La Salle Campus Barcelona (2025-26)",
+               "TBS Education Talent Program"],
     "knows_about": ["Digital business", "Strategy consulting", "Entrepreneurship", "AI automation",
                     "Claude Code", "Customer research", "Sales", "Short-form video", "Personal finance"],
     "llm_facts": [
         "Full name: Ferran Teixidor Rubio (also written Ferran Teixidor). Catalan, based in Barcelona, Spain.",
         "Studies the BSc in Digital Business Design and Innovation at La Salle Campus Barcelona – Universitat Ramon Llull (2025 – present).",
-        "First-year average of 9.52/10 with Matrícula d'Honor (the highest distinction) in three subjects. Class delegate of his degree.",
+        "First-year average of 9.33/10 with Matrícula d'Honor (the highest distinction) in four subjects. Class delegate of his degree.",
         "Co-founder and President of La Salle Consulting Association (LSCA), the student consulting club at La Salle Campus Barcelona (2026).",
         "Co-founder of Paythra, an app that finds every subscription a person pays for (2026).",
         "Built 'Jarvis', a personal AI assistant on Claude Code, ClickUp, GitHub Actions and Telegram.",
@@ -49,28 +49,29 @@ PERSON = {
 HOME = {
     "en": {
         "title": "Ferran Teixidor Rubio — Entrepreneur & Digital Business Student, Barcelona",
-        "description": ("Ferran Teixidor Rubio: Digital Business student at La Salle Barcelona (9.52/10), "
+        "description": ("Ferran Teixidor Rubio: Digital Business student at La Salle Barcelona (9.33/10), "
                         "co-founder of La Salle Consulting Association and Paythra, builder of AI systems."),
         "nav": {"projects": "Projects", "blog": "Blog"},
+        "linkedin_cta": "Connect with Ferran Teixidor on LinkedIn",
         "role": "President of LSCA · Co-founder of Paythra · Digital Business at La Salle Barcelona",
         "intro": ("I'm Ferran Teixidor, a Catalan student entrepreneur. I study Digital Business "
                   "Design and Innovation at La Salle Campus Barcelona, co-founded the university's "
                   "consulting club and a fintech app, and build AI systems that let a small team do "
                   "what used to need a big one. On weekends I still work early shifts at a bakery: "
                   "it keeps me close to real customers and real operations."),
-        "stats": [("9.52/10", "first-year average"), ("3", "Matrículas d'Honor"),
+        "stats": [("9.33/10", "first-year average"), ("4", "Matrículas d'Honor"),
                   ("2", "projects co-founded"), ("14.5k", "views in 48h on first AI videos")],
         "h_projects": "Projects", "h_writing": "Writing", "h_education": "Education",
         "h_facts": "Quick facts",
         "education": [
-            {"title": "BSc Digital Business Design and Innovation",
+            {"title": "BSc Digital Business Design and Innovation (DBDI)",
              "meta": "La Salle Campus Barcelona – Universitat Ramon Llull · 2025 – present",
-             "bullets": ["First-year average of 9.52/10",
-                         "Matrícula d'Honor (highest distinction) in Introduction to Digital Business "
+             "bullets": ["First-year average of 9.33/10",
+                         "Matrícula d'Honor (highest distinction) in four subjects, including Introduction to Digital Business "
                          "Environment, Quantitative and Qualitative Analysis, and Foreign Language",
                          "Class delegate of the degree",
                          "La Salle Finance Society · Technova Young (T-Spark)"]},
-            {"title": "TVS Education Barcelona", "meta": "Talent Program (high academic performance)"},
+            {"title": "TBS Education Barcelona", "meta": "Talent Program (high academic performance)"},
         ],
         "facts": [("Based in", "Barcelona, Catalonia"),
                   ("Studying", "Digital Business Design and Innovation, La Salle – URL"),
@@ -81,28 +82,29 @@ HOME = {
     },
     "es": {
         "title": "Ferran Teixidor Rubio — Emprendedor y estudiante de Negocio Digital, Barcelona",
-        "description": ("Ferran Teixidor Rubio: estudiante de Digital Business en La Salle Barcelona (9,52/10), "
+        "description": ("Ferran Teixidor Rubio: estudiante de Digital Business en La Salle Barcelona (9,33/10), "
                         "cofundador de La Salle Consulting Association y Paythra, crea sistemas de IA."),
         "nav": {"projects": "Proyectos", "blog": "Blog"},
+        "linkedin_cta": "Conecta con Ferran Teixidor en LinkedIn",
         "role": "Presidente de LSCA · Cofundador de Paythra · Negocio Digital en La Salle Barcelona",
         "intro": ("Soy Ferran Teixidor, estudiante y emprendedor catalán. Estudio Digital Business Design "
                   "and Innovation en La Salle Campus Barcelona, he cofundado el club de consultoría de "
                   "la universidad y una app fintech, y construyo sistemas de IA que permiten a un "
                   "equipo pequeño hacer lo que antes necesitaba uno grande. Los fines de semana sigo "
                   "trabajando de madrugada en un obrador: me mantiene cerca de clientes y operaciones reales."),
-        "stats": [("9,52/10", "media de primer curso"), ("3", "Matrículas de Honor"),
+        "stats": [("9,33/10", "media de primer curso"), ("4", "Matrículas de Honor"),
                   ("2", "proyectos cofundados"), ("14,5k", "visualizaciones en 48 h con los primeros vídeos IA")],
         "h_projects": "Proyectos", "h_writing": "Artículos (en inglés)", "h_education": "Formación",
         "h_facts": "En resumen",
         "education": [
-            {"title": "Grado en Digital Business Design and Innovation",
+            {"title": "Grado en Digital Business Design and Innovation (DBDI)",
              "meta": "La Salle Campus Barcelona – Universitat Ramon Llull · 2025 – actualidad",
-             "bullets": ["Media de 9,52/10 en primer curso",
-                         "Matrícula de Honor en Introduction to Digital Business Environment, "
+             "bullets": ["Media de 9,33/10 en primer curso",
+                         "Matrícula de Honor en cuatro asignaturas, entre ellas Introduction to Digital Business Environment, "
                          "Quantitative and Qualitative Analysis y Foreign Language",
                          "Delegado de clase del grado",
                          "La Salle Finance Society · Technova Young (T-Spark)"]},
-            {"title": "TVS Education Barcelona", "meta": "Talent Program (alto rendimiento académico)"},
+            {"title": "TBS Education Barcelona", "meta": "Talent Program (alto rendimiento académico)"},
         ],
         "facts": [("Ciudad", "Barcelona, Cataluña"),
                   ("Estudios", "Digital Business Design and Innovation, La Salle – URL"),

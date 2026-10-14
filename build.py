@@ -7,7 +7,7 @@ import html
 import json
 from pathlib import Path
 
-from content import (ARTICLES, BING_SITE_VERIFICATION, GOOGLE_SITE_VERIFICATION,
+from content import (ARTICLES, BING_SITE_VERIFICATION, GOOGLE_SITE_VERIFICATION, LINKEDIN,
                      HOME, PERSON, PROJECTS, SAME_AS, SITE, UPDATED)
 
 ROOT = Path(__file__).parent
@@ -35,7 +35,7 @@ def person_ld():
             {"@type": "CollegeOrUniversity",
              "name": "La Salle Campus Barcelona – Universitat Ramon Llull",
              "url": "https://www.salleurl.edu/"},
-            {"@type": "EducationalOrganization", "name": "TVS Education Barcelona"},
+            {"@type": "EducationalOrganization", "name": "TBS Education Barcelona"},
         ],
         "memberOf": [
             {"@type": "Organization", "name": "La Salle Consulting Association (LSCA)",
@@ -139,7 +139,8 @@ def render_home(lang):
     out = [head(t["title"], t["description"], path, lang, ld, "profile", alternates)]
     out.append(nav(lang, {"en": "/", "es": "/es/"}))
     out.append(f'<header class="hero">{avatar()}<div>'
-               f'<h1>{PERSON["name"]}</h1><p class="role">{t["role"]}</p></div></header>')
+               f'<h1>{PERSON["name"]}</h1><p class="role">{t["role"]}</p>'
+               f'<p class="cta"><a class="btn" href="{LINKEDIN}" rel="me">{t["linkedin_cta"]}</a></p></div></header>')
     out.append(f'<p class="lead">{t["intro"]}</p>')
     out.append('<div class="stats">' + "".join(
         f'<div><strong>{v}</strong><span>{k}</span></div>' for v, k in t["stats"]) + "</div>")
@@ -210,7 +211,8 @@ def render_article(a):
                f'<time datetime="{a["date"]}">{a["date"]}</time> · {a["read"]}</p>')
     out.append(a["body"])
     out.append(f'<div class="author-box">{avatar()}<p><strong>{PERSON["name"]}</strong> '
-               f'{PERSON["bio_short"]} <a href="/">More about me</a>.</p></div>')
+               f'{PERSON["bio_short"]} <a href="/">More about me</a> · '
+               f'<a href="{LINKEDIN}" rel="me">Ferran Teixidor on LinkedIn</a>.</p></div>')
     out.append('</article>')
     out.append(footer("en"))
     return "\n".join(out)

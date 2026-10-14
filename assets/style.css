@@ -36,3 +36,5 @@ footer{margin-top:64px;color:var(--muted);font-size:13px;border-top:1px solid va
 .links{display:flex;flex-wrap:wrap;gap:10px}
 .links a{border:1px solid var(--line);border-radius:999px;padding:6px 14px;text-decoration:none;font-size:14px}
 @media (max-width:600px){.hero{flex-direction:column;align-items:flex-start}h1{font-size:30px}.stats{grid-template-columns:repeat(2,1fr)}}
+.cta{margin:14px 0 0}
+.btn{display:inline-block;background:var(--accent);color:var(--bg);text-decoration:none;font-weight:500;font-size:15px;padding:9px 16px;border-radius:999px}
